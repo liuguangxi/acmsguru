@@ -1,2 +1,4 @@
 # acmsguru
-SGU Data
+
+- https://codeforces.com/problemsets/acmsguru
+- My codes
